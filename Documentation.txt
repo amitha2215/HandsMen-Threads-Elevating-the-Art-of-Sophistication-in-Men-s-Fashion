@@ -1,0 +1,86 @@
+HandsMen Threads: Elevating the Art of Sophistication in Men's Fashion
+Use Case
+HandsMen Threads is a dynamic organization in the men's fashion industry. It is embracing a Salesforce project designed to revolutionize their data management and enhance customer delight. The solution aims to automate business processes, centralize information, and utilize Salesforce tools including automation, security, and data visualization.
+
+The project solves the complexity of disconnected data by centralizing customer, order, product, and inventory information. Routine tasks such as order processing and loyalty management are automated, which increases operational efficiency. Enhanced reporting and real-time dashboards enable intelligent business decisions, while robust data security ensures sensitive information is well protected.
+
+What Needs to Be Solved
+Manual, error-prone data management across disconnected systems.
+
+Delays in order processing and fulfillment.
+
+Inability to track dynamic loyalty rewards and customer preferences.
+
+Challenge in maintaining optimal inventory levels.
+
+Limited data-driven insights for management and decision making.
+
+What Will Be Developed
+Custom Objects:
+
+Customer
+
+Order
+
+Product
+
+Inventory
+
+Marketing Campaign
+
+Custom Fields and UI
+
+Validation Rules and Flows
+
+Dashboards & Reports
+
+Security (Profiles, Permission Sets, Roles)
+
+Email Templates
+
+App Builder Setup
+
+Skills Required
+Salesforce Fundamentals
+
+Data Model Design
+
+App Builder
+
+Flows & Automation
+
+Salesforce Lightning
+
+Project Stats
+Attribute	Value
+Total Epics	10
+Total Stories/Subtasks	36
+Stories Done	35
+Total Epics Done	9
+Sample Requirements
+Supported Browser: Google Chrome (Latest stable version recommended)
+
+Project Progress (Sample User Stories & Modules)
+Use Case
+
+Salesforce Organization Setup
+
+Data Model: Customers
+
+Data Management: Tabs
+
+Data Management: Reports
+
+Profiles
+
+Data Security: Profiles
+
+Data Security: Roles
+
+Data Security: Permission Sets
+
+Email Templates
+
+Flows
+
+Automation using Apex
